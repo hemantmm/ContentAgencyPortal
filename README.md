@@ -25,4 +25,4 @@ git clone <repo>
 cd content-agency-portal
 npm install
 npm start
-json-server --watch db.json --port 3001
+node server.js
